@@ -1,9 +1,9 @@
 [submodule "web"]
 	path = web
-	url = ./web
+	url = https://github.com/Igor-Lira/find-your-duo-web
 [submodule "mobile"]
 	path = mobile
-	url = ./mobile
+	url = https://github.com/Igor-Lira/find-your-duo-mobile
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/Igor-Lira/find-your-duo-server
