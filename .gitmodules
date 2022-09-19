@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = ./web
+[submodule "mobile"]
+	path = mobile
+	url = ./mobile
+[submodule "server"]
+	path = server
+	url = ./server
